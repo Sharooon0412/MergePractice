@@ -1,0 +1,35 @@
+/*body{
+    text-align: center;
+    background-image:url('https://hubblesite.org/uploads/image_file/image_attachment/14215/xlarge_web.jpg');
+    background-size: cover;
+}
+
+table{
+    width: 60%;
+    margin: auto;
+    font-size: 1.5em;
+    border-collapse:collapse;
+    border:3px dashed red;
+}
+
+td{
+    border-bottom:1px dashed red;
+}*/
+body{
+    text-align: center;
+}
+ 
+table{
+    width: 60%;
+    margin: auto;
+    font-size: 1.5em;
+    border: 5px groove blue;
+}
+ 
+td{
+    border-top: 1px dashed blue;
+}
+ 
+th{
+    border: 2px solid red;
+}
